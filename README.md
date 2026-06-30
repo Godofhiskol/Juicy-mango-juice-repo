@@ -1,4 +1,4 @@
-# Juicy Mango juic
+# Juicy Mango juice
 
 This is my personal webpage hosted on GitHub Pages.
 
