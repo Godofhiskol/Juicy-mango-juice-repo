@@ -2,4 +2,4 @@
 
 This is my personal webpage hosted on GitHub Pages.
 
-[View it live here](https://github.com/Godofhiskol/Juicy-mango-juice-repo.git)
+[View it live here](https://godofhiskol.github.io/Juicy-mango-juice-repo/)
